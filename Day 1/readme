@@ -1,0 +1,13 @@
+https://adventofcode.com/2023/day/1
+Day 1 Part 1
+
+The task requires the user to iterate through a text document that
+has lines of values required for recovery of their Trebuchet.
+
+You are required to collect the first and last number value of 
+each line and then find the sum of all values.
+
+Day 1 Part 2
+
+This task requires the same outcome. However, this time the program
+must include the text based numbers aswell as the numerical values.
